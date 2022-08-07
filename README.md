@@ -1,5 +1,5 @@
 # Facial Emotion Recognition 
-A TensorFlow project done in Google Colab and Kaggle to classify images of facial emotions\
+A TensorFlow project done in Google Colab and Kaggle to classify images of facial emotions \
 
 View the notebook on Kaggle: https://www.kaggle.com/code/wowthecoder/fer2013/notebook \
 
